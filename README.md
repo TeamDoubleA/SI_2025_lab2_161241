@@ -1,7 +1,8 @@
 # Антонио Цековски 161241
 
 ## Control Flow Graph
-![SI-lab2](https://github.com/user-attachments/assets/211a9d7f-3376-4fcd-a465-d8640403f9d7)
+
+![SI-lab2](https://github.com/user-attachments/assets/1c7ca0ab-1b84-4949-a998-d86b2bca5f83)
 
 ## Цикломатска комплексност
 
