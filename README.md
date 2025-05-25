@@ -10,10 +10,10 @@
 
 ## Барање 4 - сите тест случаи според Every Statement критериумот
 
-1. AllItems == null , Nodes : 
-2. item.getName() == null
-3. item.getDiscount() > 0 
-4. item.getDiscount() <= 0
-5. cardnumber е невалиден
+1. AllItems == null ,      Nodes : start, 1, 2, end
+2. item.getName() == null  Nodes : start, 1, 3, 4, 5, 6, 7, 8, end
+3. item.getDiscount() > 0  Nodes : start, 1, 3, 4, 5, 6, 7, 9, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, end
+4. item.getDiscount() <= 0 Nodes : start, 1, 3, 4, 5, 6, 7, 9, 11, 13, 15, 16, 17, 18, 19, 20, 21, 24, end 
+5. cardnumber е невалиден  Nodes : start, 1, 3, 4, 5, 6, 7, 9, 11, 13, 14, 15, 23, end
 
 Со овие тест случаи се постигнува Every Statement критериумот.
